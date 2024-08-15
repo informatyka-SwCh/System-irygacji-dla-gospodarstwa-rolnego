@@ -1,0 +1,18 @@
+Projekt Optymalizacji Systemu Irygacyjnego
+
+Opis:
+Ten plik zawiera podstawową dokumentację do projektu optymalizacji systemu irygacyjnego dla gospodarstwa rolnego.
+Algorytm wykorzystuje dane dotyczące ukształtowania terenu oraz zapotrzebowania na wodę, aby wyznaczyć najbardziej efektywne punkty nawadniania.
+
+Zespół Projektowy:
+1. Twoje imie i nazwisko
+2. Imie i nazwisko członka Twojego zespołu (prawidziwe lub wymyślone)
+3. Imie i nazwisko członka Twojego zespołu (prawidziwe lub wymyślone)
+
+Instrukcja:
+1. Zamieść treść tego pliku w dokumentacji wraz z pozostałymi plikami zgodnie z wytycznymi.
+2. Zapisz dokument w formacie pdf i umieść go w odpowiednim folderze w chmurze (np. Google Drive, GitHub).
+2. Skonfiguruj odpowiednie uprawnienia dostępu, aby nauczyciel mógł przeglądać plik.
+3. Udostępnij link do pliku swojemu nauczycielowi.
+
+Koniec Dokumentacji.
